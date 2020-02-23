@@ -1,11 +1,11 @@
 # Site settings
 author: Vinh Tran
-title: Why did you decide to study Software Engineering?
+title: Why did I decide to study Software Engineering?
 header-img: img/home-bg.png
 email: vinh.v.tran@ucdenver.edu
 copyright_name: Vinh Tran
 description: > # this means to ignore newlines until "baseurl:"
-  Software Engineering
+  SE
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  travinh
